@@ -1,4 +1,4 @@
-# SCC4-API
+# Alecrim-API
 
 Urls para acesso e seus parâmetros:
 *Obs: Os teste foram feitos via postman!*
@@ -25,14 +25,14 @@ Urls para acesso e seus parâmetros:
 **Sistema monetário**
 
 `
- http://localhost:8080//terminal/saque?valor=13
+ http://localhost:8080/terminal/saque?valor=13
 `
 
 **Calculadora**
 
 Encontra-se dentro do package:
 `
-com.scc4.utils
+com.alecrim.utils
 `
 
 com os métodos:
